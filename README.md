@@ -5,7 +5,7 @@
 **Integrantes:**
 - Ortiz Trujillo Jimena
 - Astrid Flores Corona
-- Ivone Alejandra
+- Ivone Alejandra Flores Leyva
 
 Esta práctica consiste en diseñar y ejecutar pruebas unitarias para verificar el comportamiento de un sistema de cobro de estacionamiento a partir de las reglas establecidas en su modelo.
 
